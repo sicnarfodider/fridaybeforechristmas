@@ -9,5 +9,5 @@ app.get('*',(req,res)=>{
 
 
 app.listen(PORT, ()=>{
-  console.log('Server is up and runnint @ localhost:9000')
+  console.log('Server is up and running @ localhost:9000')
 })
